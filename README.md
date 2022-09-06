@@ -1,5 +1,5 @@
 <h1 align="center">Всем привет, меня зовут Ефим 👋 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=2000&color=95D6FF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=+%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=95D6FF&center=true&vCenter=true&width=435&lines=%D0%98+%D1%8F+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a></h1>
 
 <h3> Мой стек: </h3>
 
@@ -10,6 +10,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+
+<h3> Моя статистика: </h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EfimGoldfinch&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfimGoldfinch&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
 **EfimGoldfinch/EfimGoldfinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
