@@ -9,22 +9,14 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
 <h3> Моя статистика: </h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EfimGoldfinch&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfimGoldfinch&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-<!--
-**EfimGoldfinch/EfimGoldfinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![codewars](https://www.codewars.com/users/EfimGoldfinch/badges/large)](https://www.codewars.com/users/EfimGoldfinch) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EfimGoldfinch)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfimGoldfinch&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
