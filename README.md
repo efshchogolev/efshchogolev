@@ -16,7 +16,5 @@
 
 <h3> Моя статистика: </h3>
 
-[![codewars](https://www.codewars.com/users/Shchogolef/badges/large)](https://www.codewars.com/users/Shchogolef) 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=efshchogolev)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efshchogolev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
