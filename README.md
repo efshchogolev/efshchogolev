@@ -2,10 +2,11 @@
   <h1 align="center">Hi, my name is Yefim 👋 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=I+am+a+Junior+Frontend+Developer" alt="Typing SVG" /></a></h1>
 <h3> Socials: </h3>
-<div id="badges">
+<div align='center'>
   <a href="https://www.linkedin.com/in/efim-shchogolev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <br>
   <a href="https://t.me/efshchogolev">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
