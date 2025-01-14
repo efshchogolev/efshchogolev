@@ -13,18 +13,28 @@
 <img src="https://komarev.com/ghpvc/?username=efshchogolev&style=flat-square&color=blue" alt=""/>
 
 
+
 <h3> Stack: </h3>
   
-* HTML5, CSS3, BEM
-* JavaScript, TypeScript
-* React (hooks), React-router
-* Redux (Redux Toolkit), RTK Query
-* REST API, Axios
-* Sass, CSS-modules
-* Webpack, Vite
-* Bootstrap, Ant Design
-* React Hook Form, Formik
-* TanStack Table, Recharts, React Datepicker, Swiper
+HTML5, CSS3, BEM
+
+JavaScript, TypeScript
+
+React (hooks), React-router
+
+Redux (Redux Toolkit), RTK Query
+
+REST API, Axios
+
+Sass, CSS-modules
+
+Webpack, Vite
+
+Bootstrap, Ant Design
+
+React Hook Form, Formik
+
+TanStack Table, Recharts, React Datepicker, Swiper
 
 ---
 <h3> Stats: </h3>
