@@ -35,7 +35,7 @@ Bootstrap, Ant Design
 
 React Hook Form, Formik
 
-TanStack Table, Recharts, React Datepicker, Swiper
+TanStack Table, Recharts, React Datepicker, Swiper, React-Select
 
 ---
 <h3> Stats: </h3>
