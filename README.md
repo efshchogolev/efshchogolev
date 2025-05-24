@@ -1,6 +1,6 @@
 <div align='center'>
-  <h1 align="center">Hi, my name is Yefim 👋 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=I+am+a+Junior+Frontend+Developer" alt="Typing SVG" /></a></h1>
+  <h1 align="center">Hi, my name is Efim 👋 <br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=I+am+a+Frontend+Developer" alt="Typing SVG" /></a></h1>
 <h3> Socials: </h3>
 <div align='center'>
   <a href="https://www.linkedin.com/in/efim-shchogolev/">
